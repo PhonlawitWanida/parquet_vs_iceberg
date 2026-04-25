@@ -21,6 +21,7 @@ parquet_vs_iceberg/
 │
 ├── .gitignore
 └── README.md
+```
 1) basic_iceberg.py
 
 This script demonstrates basic Apache Iceberg operations using PySpark.
